@@ -1,0 +1,2 @@
+-- Placeholder for seed data
+-- Run scripts/seed-content.ts to populate the database

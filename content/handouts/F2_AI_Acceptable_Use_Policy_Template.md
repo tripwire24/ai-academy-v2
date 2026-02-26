@@ -1,0 +1,1 @@
+# F2 AI Acceptable Use Policy Template
